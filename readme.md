@@ -1,5 +1,5 @@
 # Welcome 
-# DIGITS AND NUMBER (PRACTICE)
+# Print (Homework)
 ## level
 - **Basic**
 - Beginner
@@ -15,6 +15,7 @@ Automated grading of homework assignments and tests
 - just push and check answer
 
 # Instructions
+## print01
 Print the following output:
 
 ```
@@ -22,7 +23,7 @@ Print the following output:
  (
 [_])
 ```
-
+## print02
 Print the following output:
 
 ```
@@ -30,13 +31,27 @@ Print the following output:
 / \
 [_]
 ```
+## print03
 Print the following output:
 ```
   A
  B B
 C C C
 ```
+## print04
 Print the following output:
+```
+(\___/)
+(=' .')
+(_(")(")
+```
+## print05
+Print the following output:
+```
+( ( (
+ ) ) )
+>+++*>
+```
 
 
 # Warning
