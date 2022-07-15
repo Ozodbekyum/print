@@ -48,9 +48,13 @@ Print the following output:
 ## print05
 Print the following output:
 ```
-( ( (
- ) ) )
->+++*>
+          _     _
+         / \~~~/ \
+   ,----(   * *   )
+  /      \__   __/
+ /|         (\ |(
+^\   /____\  /\|
+  |___|   |___|-"
 ```
 
 
